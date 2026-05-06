@@ -50,4 +50,4 @@ Add your Render URL here.
 
 ## Author
 
-Sumit Tomar
+Chandra Pratap Singh
